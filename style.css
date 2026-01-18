@@ -621,7 +621,7 @@ img {
     width: 85%;
 }
 .progress-line.javascript span{
-    width: 50%;
+    width: 80%;
 }
 .progress-line.react span{
     width: 30%;
@@ -1201,5 +1201,6 @@ input:focus,textarea:focus{
         right: 3rem;
     }
 }
+
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
