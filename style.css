@@ -645,7 +645,7 @@ img {
     content: '85%';
 }
 .progress-line.javascript span::after{
-    content: '50%';
+    content: '80%';
 }
 .progress-line.react span::after{
     content: '30%';
@@ -1204,3 +1204,4 @@ input:focus,textarea:focus{
 
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
+
